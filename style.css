@@ -1,0 +1,16 @@
+img {
+  display: block;
+  margin: 1px auto;
+}
+h1 {
+  text-align: center;
+  color: pink;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: xx-large;
+  border: solid pink;
+}
+P {
+  color: black;
+  text-align: left;
+}
